@@ -67,6 +67,11 @@
 피드백과 소통은 더 나은 엔지니어로 성장하는 데 가장 소중한 밑거름이라 생각합니다. <br>
 제가 작성한 코드나 프로젝트 진행 방식에 대해 **추가적인 의견이나 개선점**이 있다면, 언제든지 가감 없이 편하게 말씀 부탁드립니다!
 
+<h6 style="margin: 0; padding: 0; line-height: 1;">
+    <img src="https://img.icons8.com/color/48/discord--v2.png" alt="Discord" height="18" style="vertical-align: middle; margin-right: 5px;">
+    <span style="color: black;">Username: d_smt0317_51265</span>
+</h6>
+
 ---
 
 ## 💎 GitHub 활동 기록 (Stats)
