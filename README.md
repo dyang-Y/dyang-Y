@@ -28,13 +28,14 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img alt="Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" width="119">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="72">
-    <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" width="71">
+    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" width="120">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="76">
+    <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" width="76">
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="25">
-    <img alt="Plan" src="https://img.shields.io/badge/%E2%9C%A8%20(계획%20중)-white?style=flat-square&color=white&labelColor=white&logoColor=black" height="25">
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img alt="Snowflake" src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white" width="95">
+</div>
 
 #### 🧠 머신러닝 & 데이터 분석
 
